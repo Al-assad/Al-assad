@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=al-assad&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=ruby,css,html,shell&langs_count=6&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=ruby,css,html,shell&langs_count=6" />
 </div>
