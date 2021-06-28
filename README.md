@@ -8,6 +8,6 @@ I feel I’m too old for this, but since everyone else is doing this card thing,
 </div>
 <br/>
 <div>
-  <img src="https://github4life.herokuapp.com/al-assad.gif?z=6" align="center" />
+  <img src="https://github4life.herokuapp.com/al-assad.gif?z=6" align="middle" />
 </div>
 
