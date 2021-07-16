@@ -17,3 +17,4 @@ I feel I’m too old for this, but since everyone else is doing this card thing,
 
 <a href="https://twitter.com/Alassad_dev"><img src="https://img.shields.io/badge/Twitter-@Alassad__dev-blue?style=flat&logo=twitter" /></a>
 <a href="https://al-assad.github.io/blog"><img src="https://img.shields.io/badge/Notion-Al--assad's_Blog-yellow?style=flat&logo=notion" /></a>
+<a href="https://t.me/alassad_dev"><img src="https://img.shields.io/badge/Telegram-@alassad__dev-orange?style=flat&logo=telegram" /></a>
