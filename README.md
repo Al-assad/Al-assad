@@ -1,4 +1,4 @@
-### Hola Amigo 👋   
+### Hola Amigo 🤣   
 
 I'm Al-assad, an software developer who occasionally ponders some odd questions.  
  
