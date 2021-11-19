@@ -22,6 +22,13 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <br>
 
 <!--START_SECTION:waka-->
+```text
+Python   13 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.57 % 
+Scala    3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
+XML      1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JSON     1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Java     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
 <!--END_SECTION:waka-->
 
 <br>
