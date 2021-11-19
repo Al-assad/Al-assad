@@ -8,7 +8,7 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=css,html&langs_count=8&layout=compact" align="top" style="display: inline-block;"/>
 </div>
 
-#### 🌖 Weekly Devlopment Breakdown
+#### 🌖 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Python   13 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.57 % 
