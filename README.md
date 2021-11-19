@@ -4,8 +4,8 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
  
 <div>
  <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=al-assad&show_icons=true&card_width=200" align="top" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=css,html&langs_count=8&layout=compact" align="top"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=al-assad&show_icons=true" align="top" display：inline;/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=css,html&langs_count=8&layout=compact" align="top" display：inline;/>
  </span>
 </div>
 <br/>
