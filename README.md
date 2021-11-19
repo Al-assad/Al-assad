@@ -3,7 +3,7 @@
 I'm Al-assad, an software developer who occasionally ponders some odd questions.  
  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=al-assad&show_icons=true" align="top" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=al-assad&show_icons=true" align="top" style="display: inline-block;" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-assad&hide=css,html&langs_count=8&layout=compact" align="top" style="display: inline-block;"/>
 </div>
 <br/>
