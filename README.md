@@ -18,3 +18,10 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <a href="https://t.me/alassad_dev"><img src="https://img.shields.io/badge/Telegram-@alassad__dev-orange?style=flat&logo=telegram" /></a>
 <a href="https://yulinying.notion.site"><img src="https://img.shields.io/badge/Notion-Al--assad's_Blog-red?style=flat&logo=notion" /></a>
 <a href="https://yulinying.notion.site/Notes-0dbfb98e35034fd5ba4a21cea8006145"><img src="https://img.shields.io/badge/Notion-Al--assad's_Note-yellow?style=flat&logo=notion" /></a>
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
