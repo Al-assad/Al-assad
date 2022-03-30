@@ -12,12 +12,12 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Scala    29 hrs 14 mins  ████████████████████████▓   98.57 %
-sbt      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Python   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Go       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Text     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Java     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Scala    32 hrs 31 mins  ████████████████████████▓   98.58 %
+CLASS    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+sbt      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Java     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
