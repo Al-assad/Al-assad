@@ -12,8 +12,8 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Scala            24 hrs 8 mins   ███████████████░░░░░░░░░░   60.24 %
-Other            6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+Scala            27 hrs 36 mins  ██████████████████▒░░░░░░   73.21 %
+Other            5 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
 ```
 
 <!--END_SECTION:waka-->
