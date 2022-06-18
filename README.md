@@ -12,7 +12,9 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Docker   38 mins         ███████████████████░░░░░░   75.42 %
+YAML     12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
