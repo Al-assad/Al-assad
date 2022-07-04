@@ -12,8 +12,9 @@ I'm Al-assad, an software developer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-JSON    1 hr 24 mins    ████████████████▒░░░░░░░░   65.87 %
-Other   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
+Scala   5 hrs 16 mins   █████████████████████▒░░░   85.65 %
+JSON    27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Other   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
