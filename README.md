@@ -12,7 +12,7 @@ I'm Al-assad, Apache Committer for StreamPark, an software engineer who occasion
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other   30 mins         ██████████████▒░░░░░░░░░░   57.83 %
 ```
 
 <!--END_SECTION:waka-->
