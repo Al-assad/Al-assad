@@ -1,6 +1,6 @@
 ### Hola Amigo 🤣   
 
-I'm Al-assad, an software engineer who occasionally ponders some odd questions.  
+I'm Al-assad, a software engineer who occasionally ponders some odd questions.  
  
 #### 🙃 Github Activity 
 <div>
