@@ -21,7 +21,7 @@ Other   5 mins          ██████████████████�
 
 <a href="https://twitter.com/Alassad_dev"><img src="https://img.shields.io/badge/Twitter-@Alassad__dev-blue?style=flat&logo=twitter" /></a>
 <a href="https://t.me/alassad_dev"><img src="https://img.shields.io/badge/Telegram-@alassad__dev-orange?style=flat&logo=telegram" /></a>
-<a href="https://assad.notion.site"><img src="https://img.shields.io/badge/Notion-Al--assad's_Blog-yellow?style=flat&logo=notion" /></a>
+<a href="https://al-assad.github.io"><img src="https://img.shields.io/badge/Blogs-Al--assad's_Blog-yellow?style=flat&logo=github" /></a>
 
 <!-- <a href="https://assad.notion.site/Notes-0dbfb98e35034fd5ba4a21cea8006145"><img src="https://img.shields.io/badge/Notion-Al--assad's_Note-yellow?style=flat&logo=notion" /></a> -->
 
