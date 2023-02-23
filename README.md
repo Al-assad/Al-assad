@@ -12,12 +12,12 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Java             13 hrs 16 mins  █████████████████▒░░░░░░░   69.68 %
-XML              1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-HOCON            1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Bash             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Java             12 hrs 52 mins  █████████████████▓░░░░░░░   71.22 %
+HOCON            1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+XML              1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Markdown         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Bash             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
