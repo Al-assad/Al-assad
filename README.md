@@ -12,9 +12,9 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Java             8 hrs 14 mins   █████████████████████▓░░░   86.63 %
-XML              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-HOCON            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Java             8 hrs 12 mins   █████████████████████▓░░░   86.67 %
+XML              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+HOCON            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
