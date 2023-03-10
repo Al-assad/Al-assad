@@ -12,8 +12,8 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Python           10 hrs 20 mins  ████████████████████▓░░░░   82.62 %
-Other            1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Python           10 hrs 20 mins  █████████████████████▓░░░   87.19 %
+Other            38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
