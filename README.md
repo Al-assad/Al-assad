@@ -12,9 +12,9 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-SQL          4 hrs 39 mins   ██████████▒░░░░░░░░░░░░░░   41.30 %
-YAML         2 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
-Other        2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+SQL          4 hrs 35 mins   ██████████▒░░░░░░░░░░░░░░   41.48 %
+YAML         2 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Other        2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
 ```
 
 <!--END_SECTION:waka-->
