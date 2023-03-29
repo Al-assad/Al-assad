@@ -12,8 +12,9 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-SQL               5 hrs 30 mins   ████████████░░░░░░░░░░░░░   48.57 %
-Other             2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+SQL               2 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.21 %
+Bash              2 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+Other             2 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
 ```
 
 <!--END_SECTION:waka-->
