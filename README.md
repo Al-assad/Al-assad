@@ -12,8 +12,7 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Bash              3 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.00 %
-Other             2 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Other             5 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.04 %
 ```
 
 <!--END_SECTION:waka-->
