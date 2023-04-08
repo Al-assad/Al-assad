@@ -12,9 +12,9 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-CSS        3 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   39.15 %
-Scala      2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Other      43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+CSS        3 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   40.81 %
+Scala      2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+Other      52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
 ```
 
 <!--END_SECTION:waka-->
