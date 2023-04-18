@@ -12,12 +12,12 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-SQL               12 hrs 18 mins  █████████░░░░░░░░░░░░░░░░   36.03 %
-Scala             11 hrs 24 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Python            3 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-sbt               2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Markdown          1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Other             1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Scala             13 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 %
+SQL               12 hrs 22 mins  ████████░░░░░░░░░░░░░░░░░   32.38 %
+Python            3 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+sbt               2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Markdown          1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Java              1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
