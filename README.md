@@ -12,12 +12,9 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-Go               59 mins         █████████████████▓░░░░░░░   70.63 %
-Scala            14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-JSON             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-go.mod           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+YAML             1 hr 28 mins    █████████▓░░░░░░░░░░░░░░░   38.90 %
+Go               1 hr 14 mins    ████████▒░░░░░░░░░░░░░░░░   32.77 %
+Other            22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
 ```
 
 <!--END_SECTION:waka-->
