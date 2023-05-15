@@ -12,11 +12,11 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```text
-YAML             8 hrs 51 mins   █████████████████████▓░░░   86.10 %
-Java             47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-SQL              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Go               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+YAML             9 hrs 28 mins   █████████████▒░░░░░░░░░░░   52.96 %
+Bash             2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Shell Script     2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Java             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Go               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
