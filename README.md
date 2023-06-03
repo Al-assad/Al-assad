@@ -11,7 +11,7 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 #### 🌖 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java           11 mins         ████████▒░░░░░░░░░░░░░░░░   33.51 %
 YAML           11 mins         ████████▒░░░░░░░░░░░░░░░░   33.03 %
 Bash           7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.54 %
