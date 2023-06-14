@@ -12,9 +12,7 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```txt
-Other      3 mins          ███████████████████████▓░   94.25 %
-TOML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
