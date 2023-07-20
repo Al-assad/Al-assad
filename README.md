@@ -12,11 +12,10 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     13 hrs 30 mins  ████████████████████▒░░░░   81.80 %
-Markdown   1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Other      1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-JSON       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python     15 hrs 16 mins  ██████████████████████░░░   88.00 %
+Markdown   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Other      59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
