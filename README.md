@@ -12,11 +12,11 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             5 hrs 39 mins   ███████████████████████▒░   93.43 %
-TOML             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Go               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Rust             4 hrs 57 mins   ████████████████████████▒   97.32 %
+Go               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+TOML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
