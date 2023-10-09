@@ -12,11 +12,11 @@ I'm Al-assad, a software engineer who occasionally ponders some odd questions.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                20 hrs 22 mins  ████████████████████▒░░░░   81.62 %
-YAML              1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Docker            1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Bash              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Shell Script      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Go                10 hrs 51 mins  █████████████████▒░░░░░░░   69.95 %
+Docker            1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Scala             1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+YAML              49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Bash              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
