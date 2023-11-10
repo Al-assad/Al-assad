@@ -14,11 +14,7 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Go         51 mins         ██████████████░░░░░░░░░░░   55.98 %
-YAML       23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Scala      12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Scala   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
