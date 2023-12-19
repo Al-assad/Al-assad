@@ -14,11 +14,7 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Go      8 mins          ███████████▒░░░░░░░░░░░░░   45.31 %
-Scala   6 mins          ████████▓░░░░░░░░░░░░░░░░   34.50 %
-Java    3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-C++     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
