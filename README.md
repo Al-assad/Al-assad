@@ -14,7 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile   2 hrs 21 mins   ████████████▒░░░░░░░░░░░░   49.46 %
+YAML       1 hr 16 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Markdown   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Other      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Go         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
