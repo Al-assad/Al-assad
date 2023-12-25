@@ -14,11 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   2 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.47 %
-YAML       1 hr 16 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-Markdown   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Other      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Go         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Makefile   2 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.10 %
+YAML       1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Markdown   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Other      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Go         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
