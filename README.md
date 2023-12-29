@@ -14,8 +14,7 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Scala   5 mins          ██████████████████░░░░░░░   72.28 %
-YAML    2 mins          ███████░░░░░░░░░░░░░░░░░░   27.72 %
+YAML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
