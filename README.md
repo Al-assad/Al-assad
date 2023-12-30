@@ -14,7 +14,10 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins          █████████████████████████   100.00 %
+AppleScript   30 mins         ██████████████████████▒░░   88.88 %
+YAML          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Python        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
