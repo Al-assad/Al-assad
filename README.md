@@ -25,7 +25,7 @@ XML               19 mins         ▒░░░░░░░░░░░░░░�
 
 <br>
 
-<a href="https://twitter.com/Alassad_dev"><img src="https://img.shields.io/badge/Twitter-@Alassad__dev-blue?style=flat&logo=twitter" /></a>
+<a href="https://twitter.com/assad_lin"><img src="https://img.shields.io/badge/Twitter-@Alassad__dev-blue?style=flat&logo=twitter" /></a>
 <a href="https://t.me/alassad_dev"><img src="https://img.shields.io/badge/Telegram-@alassad__dev-orange?style=flat&logo=telegram" /></a>
 <a href="https://al-assad.github.io"><img src="https://img.shields.io/badge/Blogs-Linying_Assad's_Blog-yellow?style=flat&logo=github" /></a>
 
