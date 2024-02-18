@@ -14,8 +14,7 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-SQL     0 secs          ███████████████████░░░░░░   75.81 %
-Other   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
