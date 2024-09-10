@@ -14,11 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Java             33 hrs 55 mins  ██████████████████████▒░░   89.06 %
-SQL              2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Go               39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-HOCON            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-XML              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java             28 hrs 23 mins  █████████████████████▒░░░   85.99 %
+Go               1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+SQL              1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+YAML             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
