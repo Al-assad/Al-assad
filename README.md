@@ -14,11 +14,7 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 21 mins   ████████████████▓░░░░░░░░   66.12 %
-Makefile          1 hr 21 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
-Shell Script      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-HOCON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Bash              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
