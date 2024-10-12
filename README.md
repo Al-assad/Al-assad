@@ -14,7 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              6 hrs 28 mins   █████████████████████████   99.64 %
+JavaScript        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Git               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HOCON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
