@@ -14,11 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-Java                    26 hrs 7 mins   █████████████████████░░░░   84.40 %
-Other                   2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Scala                   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-TypeScript              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-ANTLR v4 grammar file   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Java                    23 hrs 1 min    ███████████████████▒░░░░░   76.67 %
+Other                   3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Vue.js                  1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Scala                   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Makefile                28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
