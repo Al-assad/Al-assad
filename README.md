@@ -14,11 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        26 hrs 48 mins        █████████████░░░░░░░░░░░░   52.65 %
-Markdown          10 hrs 32 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Other             8 hrs 5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-JSON              2 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JavaScript        1 hr 22 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TypeScript       18 hrs 6 mins         ████████████▒░░░░░░░░░░░░   48.70 %
+Markdown         9 hrs 27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Other            6 hrs                 ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+JSON             1 hr 46 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JavaScript       1 hr 7 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
