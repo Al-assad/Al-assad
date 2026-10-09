@@ -14,7 +14,11 @@ My personal open source project: [LinsOSS](https://github.com/linsoss)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown       0 secs                ███████████████░░░░░░░░░░   59.95 %
+YAML           0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+textmate       0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Java           0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Bash           0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
